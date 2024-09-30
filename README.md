@@ -4,7 +4,7 @@ This project uses a [Stardist](https://stardist.net/) model, to detect bubbles i
 
 ## Image labels
 
-For labeling we used the CVAT image labeler with ellipse labels. The project only works with data that represents elipse labels, so its necessary to use them.
+For labeling we used the [CVAT](https://www.cvat.ai/) image labeler with ellipse labels. The project only works with data that represents elipse labels, so its necessary to use them.
 
 Check out some of the label files in the dataset directories to see how the label files need to be structured.
 
