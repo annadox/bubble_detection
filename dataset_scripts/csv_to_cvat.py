@@ -12,7 +12,7 @@ from tkinter import filedialog
 # DATASET_DIR is the root directory of the dataset you're converting. It needs to contain subdirectories "csv_data" (input data) and "xml_cvat" (output data).
 # If DATASET_DIR is None, the program will prompt you to select the dataset directory
 
-DATASET_DIR = "./datasets/03_horizontal_38_450_p4"
+DATASET_DIR = None
 
 def read_csv(file_path):
     df = pd.read_csv(file_path)

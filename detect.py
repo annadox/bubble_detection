@@ -25,7 +25,7 @@ import tifffile
 
 ROOT_DIR = os.getcwd() # Root directory of the script file
 MERITVE = "Example measurements Vertical" # Sub-directory of the set of mesurements you want to detect (needs to contain other sub-directories for each set of images)
-DATA_DIR = "./example_detection_data"
+DATA_DIR = "./process_data"
 MEASUREMENTS_DIR = os.path.join(DATA_DIR, MERITVE) # Sets the sub-directory
 
 OUTPUT_DIR = os.path.join(ROOT_DIR, "output", MERITVE) # Output dir for the predictions

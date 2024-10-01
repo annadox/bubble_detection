@@ -1,4 +1,3 @@
-
 from __future__ import print_function, unicode_literals, absolute_import, division
 import sys
 import os
@@ -50,11 +49,11 @@ IMAGE_ROTATION = cv2.ROTATE_90_CLOCKWISE # Set depending on how you want the inp
 
 PNG_IMAGE_SIZE = (800, 1280) # Set this to the .png image dimensions (height, width)
 
-CHECK_IMAGES = True # Set to True if you want to display the dataset images and their corresponding labels before training
+CHECK_IMAGES = False # Set to True if you want to display the dataset images and their corresponding labels before training
 GENERATE_MASKS = True # Set to False if you already have generated masks
 
 # Before training the model you need to set the models config.json file that determines the hyper-parameters of the training process (or you can just copy it from the full_model_best/stardist folder)
-MODEL_BASE_DIR = "models/full_model_best" # Set to relative path to the models base directory from the root directory
+MODEL_BASE_DIR = "models/new_test" # Set to relative path to the models base directory from the root directory
 
 # Mask generation from .csv files
 def generate_masks():
@@ -152,19 +151,25 @@ def train(images, masks):
         print("WARNING: median object size larger than field of view of the neural network.")
 
     train_imgs, train_masks, val_imgs, val_masks = train_val_split(images, masks, train_size=0.8) # Split dataset into training and validation - train_size determines the size of the training dataset compared to the whole dataset (recommended 0.7 or 0.8)
+    try :
+        # Train model and optimize the detection threshold to maximize the perfomance of the validation dataset
+        model.train(train_imgs, train_masks, validation_data=(val_imgs, val_masks), augmenter=augmenter) # To add augmentations you can add code to the augmenter(x, y) function defined above.
+    except KeyboardInterrupt:
+        pass
 
-    # Train model and optimize the detection threshold to maximize the perfomance of the validation dataset
-    model.train(train_imgs, train_masks, validation_data=(val_imgs, val_masks), augmenter=augmenter) # To add augmentations you can add code to the augmenter(x, y) function defined above.
+    print("\nTraining stopped")
+
+    print("Optimizing tresholds")
     model.optimize_thresholds(val_imgs, val_masks)
-
     # Predict masks for the validation dataset
     val_masks_pred = [model.predict_instances(x, n_tiles=model._guess_n_tiles(x), show_tile_progress=False)[0] for x in tqdm(val_imgs)]
-    
     # Calculate performance metrics on specified IoU thresholds (precision, recall, accuracy, f1, mean_true_score, mean_matched_score, panoptic_quality, false positives, true positives and false negatives)
+    print("Displaying statistics")
     taus = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9] # IoU thresholds
     stats = [matching_dataset(val_masks, val_masks_pred, thresh=t, show_progress=False) for t in tqdm(taus)] # Get performance metrics
-
     plot_stats(taus, stats)
+
+
 
 # Plot performance metrics
 def plot_stats(taus, stats):

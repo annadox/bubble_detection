@@ -1,0 +1,2188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>1244415</id>
+      <size>1</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-09-18 09:15:17.701510+00:00</created>
+      <updated>2024-09-18 11:04:12.872095+00:00</updated>
+      <subset>Train</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>1246741</id>
+          <start>0</start>
+          <stop>0</stop>
+          <url>https://app.cvat.ai/api/jobs/1244415</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>andraz6</username>
+        <email>pevcin.andraz5@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>bubble</name>
+          <color>#3df53d</color>
+          <type>ellipse</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2024-09-18 11:04:19.924935+00:00</dumped>
+  </meta>
+  <image id="0" name="Measurement0161.png" width="1280" height="800">
+    <ellipse label="bubble" source="manual" occluded="0" cx="11.10" cy="188.78" rx="8.35" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="34.73" cy="180.21" rx="3.02" ry="3.96" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="4.50" cy="179.57" rx="3.02" ry="3.96" rotation="12.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="13.10" cy="172.67" rx="3.02" ry="3.96" rotation="12.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="19.39" cy="174.41" rx="2.56" ry="2.61" rotation="12.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="43.70" cy="173.47" rx="2.56" ry="2.61" rotation="12.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="32.50" cy="173.17" rx="2.56" ry="2.61" rotation="12.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="57.71" cy="173.51" rx="3.33" ry="3.52" rotation="12.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="65.96" cy="174.24" rx="3.71" ry="3.78" rotation="12.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="51.61" cy="186.85" rx="5.56" ry="7.25" rotation="358.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="78.57" cy="179.67" rx="8.11" ry="10.28" rotation="358.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="61.04" cy="202.30" rx="11.46" ry="13.55" rotation="358.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="16.39" cy="160.07" rx="5.40" ry="6.38" rotation="0.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="2.05" cy="156.06" rx="8.50" ry="13.36" rotation="0.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="27.84" cy="204.91" rx="2.11" ry="2.31" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="32.49" cy="205.77" rx="2.26" ry="2.31" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="21.07" cy="206.61" rx="1.78" ry="2.01" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="38.29" cy="205.61" rx="1.81" ry="1.76" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="43.03" cy="205.60" rx="1.81" ry="1.76" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="6.53" cy="217.65" rx="2.62" ry="3.05" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="15.51" cy="226.93" rx="3.89" ry="4.62" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="29.33" cy="236.25" rx="9.02" ry="11.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="41.73" cy="247.00" rx="2.11" ry="2.31" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="57.06" cy="244.05" rx="2.49" ry="2.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="56.38" cy="234.60" rx="1.97" ry="2.01" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="62.37" cy="256.73" rx="3.18" ry="3.62" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="74.78" cy="243.69" rx="3.57" ry="4.11" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="84.18" cy="253.46" rx="3.47" ry="3.86" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="88.63" cy="257.95" rx="1.97" ry="2.20" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="95.63" cy="255.95" rx="2.22" ry="2.45" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="91.33" cy="245.10" rx="1.97" ry="2.20" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="89.93" cy="238.20" rx="2.17" ry="2.35" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="78.98" cy="237.63" rx="2.67" ry="2.77" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="82.68" cy="234.29" rx="2.17" ry="2.24" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="101.33" cy="241.03" rx="2.37" ry="2.42" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="110.83" cy="255.94" rx="3.37" ry="4.11" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="76.93" cy="220.15" rx="4.97" ry="6.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="99.28" cy="218.75" rx="3.82" ry="4.20" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="61.63" cy="234.71" rx="1.97" ry="2.01" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="71.73" cy="229.71" rx="1.97" ry="2.01" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="107.43" cy="250.71" rx="1.82" ry="1.96" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="120.13" cy="248.00" rx="2.42" ry="2.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="128.21" cy="253.90" rx="3.54" ry="3.65" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="124.23" cy="246.21" rx="1.82" ry="1.96" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="144.46" cy="244.37" rx="3.69" ry="4.03" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="150.03" cy="233.30" rx="3.69" ry="4.03" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="146.17" cy="260.07" rx="3.03" ry="3.12" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="142.05" cy="270.79" rx="3.85" ry="4.06" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="132.55" cy="229.62" rx="10.40" ry="11.83" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="158.86" cy="239.67" rx="1.99" ry="2.03" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="150.42" cy="242.17" rx="1.83" ry="1.82" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="164.60" cy="238.89" rx="2.65" ry="2.61" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="165.90" cy="248.84" rx="3.00" ry="3.11" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="153.97" cy="213.60" rx="3.73" ry="4.05" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="167.43" cy="219.30" rx="1.82" ry="1.96" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="172.61" cy="218.52" rx="2.04" ry="2.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="70.80" cy="155.28" rx="9.25" ry="10.96" rotation="15.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="97.60" cy="172.57" rx="3.70" ry="4.01" rotation="12.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="122.35" cy="180.01" rx="8.94" ry="10.70" rotation="12.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="134.16" cy="189.75" rx="1.81" ry="1.76" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="122.64" cy="202.59" rx="8.94" ry="10.70" rotation="12.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="125.33" cy="155.07" rx="9.67" ry="13.15" rotation="358.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="107.92" cy="158.47" rx="9.67" ry="11.82" rotation="358.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="165.48" cy="172.47" rx="9.67" ry="11.82" rotation="13.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="184.98" cy="181.27" rx="2.12" ry="2.13" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="191.72" cy="172.63" rx="2.68" ry="2.87" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="180.84" cy="184.28" rx="2.36" ry="2.47" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="183.48" cy="219.03" rx="2.36" ry="2.47" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="186.84" cy="216.39" rx="2.41" ry="2.81" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="191.28" cy="224.43" rx="1.81" ry="1.76" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="196.75" cy="223.69" rx="2.25" ry="2.31" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="199.09" cy="214.54" rx="2.96" ry="3.31" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="204.12" cy="214.83" rx="2.96" ry="3.31" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="210.36" cy="217.97" rx="3.25" ry="3.62" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="217.32" cy="226.11" rx="3.25" ry="3.62" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="223.39" cy="220.25" rx="3.31" ry="3.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="232.49" cy="218.73" rx="3.54" ry="4.11" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="190.75" cy="240.93" rx="3.20" ry="3.37" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="200.48" cy="244.29" rx="2.46" ry="2.59" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="207.60" cy="238.79" rx="2.45" ry="2.55" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="212.18" cy="248.80" rx="2.28" ry="2.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="227.81" cy="245.49" rx="2.74" ry="2.61" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="216.91" cy="249.43" rx="1.99" ry="2.13" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="207.23" cy="255.43" rx="4.77" ry="5.77" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="223.31" cy="260.31" rx="4.94" ry="5.77" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="239.73" cy="232.43" rx="9.88" ry="11.37" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="228.61" cy="226.65" rx="4.27" ry="4.61" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="248.58" cy="220.19" rx="4.33" ry="4.86" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="258.36" cy="207.75" rx="3.31" ry="3.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="258.96" cy="194.31" rx="3.31" ry="3.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="252.30" cy="194.21" rx="3.09" ry="3.55" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="244.08" cy="203.19" rx="10.35" ry="12.84" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="236.88" cy="174.39" rx="10.35" ry="12.84" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="223.56" cy="179.64" rx="1.87" ry="1.98" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="178.22" cy="154.51" rx="9.32" ry="11.86" rotation="12.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="180.24" cy="161.79" rx="9.32" ry="11.86" rotation="12.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="177.36" cy="173.91" rx="4.89" ry="5.47" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="208.18" cy="158.27" rx="10.19" ry="11.88" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="200.61" cy="164.85" rx="5.53" ry="5.77" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="221.60" cy="167.83" rx="2.68" ry="2.87" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="256.52" cy="175.65" rx="4.23" ry="4.15" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="263.68" cy="176.22" rx="2.28" ry="2.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="271.50" cy="175.37" rx="2.28" ry="2.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="271.08" cy="181.20" rx="1.99" ry="2.13" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="266.90" cy="182.05" rx="1.70" ry="1.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="259.33" cy="166.50" rx="3.83" ry="4.14" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="262.09" cy="151.13" rx="12.48" ry="16.35" rotation="34.90" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="279.27" cy="166.35" rx="3.98" ry="4.15" rotation="28.90" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="279.70" cy="176.68" rx="3.15" ry="3.27" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="297.88" cy="192.08" rx="3.97" ry="4.52" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="282.88" cy="194.08" rx="3.77" ry="4.12" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="291.44" cy="205.15" rx="2.31" ry="2.55" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="287.18" cy="199.75" rx="2.31" ry="2.55" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="287.24" cy="210.70" rx="3.41" ry="3.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="278.69" cy="218.13" rx="4.41" ry="5.42" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="281.98" cy="200.46" rx="1.70" ry="1.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="278.78" cy="200.96" rx="1.70" ry="1.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="282.78" cy="205.46" rx="1.70" ry="1.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="255.34" cy="223.35" rx="2.06" ry="2.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="254.31" cy="229.63" rx="1.89" ry="2.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="267.45" cy="235.51" rx="12.00" ry="16.59" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="285.24" cy="222.85" rx="2.41" ry="2.55" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="292.89" cy="224.30" rx="3.36" ry="3.65" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="303.78" cy="219.15" rx="3.36" ry="3.65" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="297.86" cy="205.70" rx="2.54" ry="2.65" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="308.56" cy="198.50" rx="2.84" ry="2.95" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="312.42" cy="190.10" rx="3.93" ry="4.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="325.17" cy="202.80" rx="3.03" ry="3.25" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="332.28" cy="203.00" rx="3.12" ry="3.55" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="340.28" cy="203.85" rx="3.72" ry="4.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="311.18" cy="203.85" rx="2.31" ry="2.55" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="311.09" cy="209.85" rx="3.56" ry="3.20" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="321.29" cy="184.85" rx="2.11" ry="2.10" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="328.38" cy="173.96" rx="2.11" ry="2.10" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="333.13" cy="173.23" rx="2.41" ry="2.42" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="282.06" cy="184.27" rx="4.69" ry="5.23" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="303.72" cy="233.51" rx="5.17" ry="5.49" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="305.50" cy="243.25" rx="5.89" ry="6.71" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="315.15" cy="253.01" rx="4.30" ry="4.57" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="316.84" cy="238.86" rx="2.86" ry="2.91" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="330.23" cy="230.22" rx="5.38" ry="6.58" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="338.73" cy="224.80" rx="3.87" ry="4.23" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="336.32" cy="235.22" rx="2.65" ry="2.76" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="318.51" cy="234.82" rx="1.88" ry="1.97" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="350.21" cy="226.01" rx="3.14" ry="3.59" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="353.20" cy="233.98" rx="3.14" ry="3.59" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="307.08" cy="159.75" rx="9.31" ry="11.36" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="298.57" cy="164.88" rx="10.35" ry="12.84" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="340.38" cy="151.91" rx="12.07" ry="15.01" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="346.17" cy="174.21" rx="10.53" ry="12.84" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="361.90" cy="192.17" rx="5.10" ry="5.93" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="375.55" cy="192.18" rx="5.45" ry="5.93" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="277.68" cy="206.18" rx="1.70" ry="1.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="286.68" cy="230.88" rx="1.70" ry="1.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="296.88" cy="230.28" rx="1.70" ry="1.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="322.68" cy="228.58" rx="1.70" ry="1.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="345.18" cy="244.88" rx="1.70" ry="1.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="349.39" cy="244.27" rx="2.01" ry="2.28" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="353.74" cy="244.10" rx="2.51" ry="2.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="362.14" cy="243.49" rx="2.81" ry="2.81" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="362.93" cy="226.48" rx="3.42" ry="3.72" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="369.18" cy="241.38" rx="1.70" ry="1.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="376.89" cy="246.02" rx="2.96" ry="3.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="384.41" cy="236.20" rx="3.64" ry="3.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="393.16" cy="240.10" rx="3.49" ry="4.15" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="402.28" cy="240.78" rx="3.49" ry="4.15" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="388.10" cy="252.52" rx="2.90" ry="2.92" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="385.39" cy="220.00" rx="2.46" ry="2.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="389.38" cy="218.08" rx="2.46" ry="2.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="393.96" cy="216.89" rx="3.09" ry="3.36" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="404.28" cy="217.48" rx="3.09" ry="3.36" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="400.05" cy="206.67" rx="2.10" ry="2.12" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="406.39" cy="207.28" rx="2.26" ry="2.22" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="382.00" cy="204.30" rx="9.57" ry="12.81" rotation="10.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="404.08" cy="184.58" rx="1.70" ry="1.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="400.88" cy="185.48" rx="1.70" ry="1.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="397.98" cy="187.18" rx="1.70" ry="1.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="421.61" cy="210.08" rx="2.74" ry="2.82" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="418.87" cy="217.73" rx="2.93" ry="3.12" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="419.34" cy="235.07" rx="2.01" ry="2.13" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="413.54" cy="235.46" rx="1.66" ry="1.81" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="414.70" cy="252.34" rx="9.17" ry="10.63" rotation="19.10" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="438.28" cy="229.78" rx="3.64" ry="3.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="455.92" cy="231.69" rx="3.48" ry="3.54" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="472.08" cy="238.64" rx="2.12" ry="2.24" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="466.53" cy="238.46" rx="1.92" ry="2.06" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="462.88" cy="239.32" rx="1.67" ry="1.77" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="462.15" cy="251.73" rx="10.20" ry="11.37" rotation="10.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="318.83" cy="166.69" rx="4.57" ry="4.66" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="380.78" cy="174.30" rx="3.57" ry="4.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="376.11" cy="179.49" rx="2.14" ry="2.21" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="371.77" cy="180.48" rx="1.83" ry="1.87" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="361.33" cy="178.11" rx="3.07" ry="3.44" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="364.78" cy="179.18" rx="2.46" ry="2.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="396.91" cy="175.64" rx="3.49" ry="3.91" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="411.02" cy="178.15" rx="5.08" ry="6.00" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="405.75" cy="169.06" rx="3.84" ry="4.21" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="435.47" cy="167.83" rx="3.93" ry="4.42" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="435.18" cy="190.08" rx="1.70" ry="1.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="440.69" cy="189.62" rx="1.86" ry="2.03" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="449.31" cy="189.02" rx="2.34" ry="2.48" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="444.95" cy="179.40" rx="4.35" ry="5.35" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="391.55" cy="163.64" rx="6.15" ry="7.49" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="392.44" cy="170.53" rx="3.14" ry="3.22" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="378.77" cy="164.95" rx="2.73" ry="2.70" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="372.38" cy="176.78" rx="1.83" ry="1.87" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="368.08" cy="180.48" rx="1.83" ry="1.87" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="454.58" cy="179.18" rx="3.84" ry="4.21" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="465.20" cy="192.23" rx="5.45" ry="7.07" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="455.78" cy="204.08" rx="2.34" ry="2.48" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="472.02" cy="199.55" rx="3.33" ry="3.90" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="487.35" cy="202.82" rx="11.30" ry="15.98" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="480.02" cy="181.23" rx="2.08" ry="2.18" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="484.95" cy="180.35" rx="2.70" ry="2.90" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="495.78" cy="226.68" rx="2.34" ry="2.48" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="487.88" cy="237.18" rx="2.34" ry="2.48" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="490.42" cy="226.03" rx="1.73" ry="1.83" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="524.23" cy="202.00" rx="11.08" ry="13.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="508.42" cy="181.15" rx="3.63" ry="4.05" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="522.33" cy="180.57" rx="4.07" ry="4.28" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="534.75" cy="180.70" rx="6.80" ry="8.25" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="471.52" cy="152.79" rx="13.00" ry="16.70" rotation="19.70" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="455.14" cy="157.06" rx="10.02" ry="13.66" rotation="22.20" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="458.52" cy="169.78" rx="3.23" ry="3.38" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="459.44" cy="175.96" rx="2.61" ry="2.69" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="478.34" cy="166.71" rx="11.53" ry="14.93" rotation="19.70" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="513.65" cy="164.25" rx="4.46" ry="4.89" rotation="358.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="518.46" cy="170.40" rx="4.46" ry="4.89" rotation="358.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="502.17" cy="164.50" rx="10.07" ry="12.04" rotation="358.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="477.25" cy="190.21" rx="2.34" ry="2.48" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="550.66" cy="199.15" rx="6.04" ry="6.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="569.31" cy="197.22" rx="4.44" ry="5.38" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="546.60" cy="211.25" rx="4.90" ry="5.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="565.17" cy="206.70" rx="2.67" ry="2.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="559.89" cy="207.08" rx="2.26" ry="2.48" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="561.05" cy="217.79" rx="2.15" ry="2.34" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="571.40" cy="217.63" rx="2.55" ry="2.67" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="554.13" cy="221.80" rx="5.67" ry="6.65" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="553.66" cy="207.69" rx="2.04" ry="2.06" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="586.35" cy="216.80" rx="2.04" ry="2.06" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="590.16" cy="217.02" rx="2.04" ry="2.43" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="596.36" cy="217.24" rx="2.54" ry="2.71" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="583.29" cy="206.18" rx="3.31" ry="3.57" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="582.15" cy="225.00" rx="2.04" ry="2.06" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="536.95" cy="232.35" rx="13.00" ry="15.20" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="550.77" cy="239.17" rx="4.38" ry="4.63" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="578.35" cy="241.90" rx="4.38" ry="4.63" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="580.47" cy="252.13" rx="5.22" ry="5.37" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="606.46" cy="220.21" rx="2.54" ry="2.71" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="612.36" cy="224.76" rx="2.14" ry="2.21" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="622.40" cy="223.15" rx="2.44" ry="2.55" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="618.78" cy="208.62" rx="3.57" ry="4.17" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="602.15" cy="209.60" rx="3.57" ry="4.17" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="612.22" cy="238.47" rx="3.68" ry="3.98" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="589.81" cy="177.96" rx="5.94" ry="7.84" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="600.11" cy="180.92" rx="4.44" ry="5.33" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="565.46" cy="176.21" rx="2.26" ry="2.48" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="563.25" cy="169.36" rx="2.50" ry="2.74" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="567.48" cy="170.42" rx="2.37" ry="2.72" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="557.65" cy="168.40" rx="2.50" ry="2.74" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="548.78" cy="168.62" rx="2.72" ry="2.87" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="557.71" cy="176.28" rx="1.69" ry="1.83" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="554.96" cy="176.30" rx="1.69" ry="1.83" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="552.55" cy="176.30" rx="1.69" ry="1.83" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="576.44" cy="153.71" rx="12.42" ry="15.33" rotation="25.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="573.12" cy="168.77" rx="3.63" ry="3.83" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="536.88" cy="161.61" rx="8.40" ry="12.44" rotation="26.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="663.92" cy="210.17" rx="4.53" ry="4.83" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="674.02" cy="209.89" rx="1.93" ry="2.09" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="680.26" cy="209.11" rx="2.19" ry="2.39" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="686.18" cy="208.96" rx="2.47" ry="2.69" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="692.75" cy="190.99" rx="2.17" ry="2.35" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="697.39" cy="190.83" rx="2.36" ry="2.47" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="702.05" cy="190.30" rx="2.36" ry="2.47" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="707.00" cy="189.62" rx="2.40" ry="2.63" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="679.91" cy="181.31" rx="2.24" ry="2.29" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="665.86" cy="184.08" rx="5.69" ry="6.37" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="697.31" cy="217.25" rx="10.95" ry="14.76" rotation="23.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="720.48" cy="209.19" rx="3.42" ry="3.86" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="707.41" cy="198.25" rx="1.64" ry="1.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="712.31" cy="195.75" rx="2.09" ry="2.20" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="717.83" cy="195.75" rx="2.37" ry="2.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="725.34" cy="196.05" rx="2.56" ry="2.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="739.56" cy="196.51" rx="2.79" ry="3.19" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="708.35" cy="185.60" rx="1.93" ry="2.09" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="710.75" cy="185.50" rx="1.93" ry="2.09" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="714.05" cy="185.40" rx="1.93" ry="2.09" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="716.96" cy="189.16" rx="2.34" ry="2.69" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="724.15" cy="186.10" rx="2.34" ry="2.69" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="729.36" cy="184.20" rx="2.24" ry="2.55" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="727.96" cy="191.50" rx="1.64" ry="1.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="731.01" cy="191.20" rx="1.89" ry="2.15" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="620.85" cy="167.77" rx="9.22" ry="11.21" rotation="20.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="639.70" cy="159.12" rx="9.22" ry="11.21" rotation="20.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="661.29" cy="167.06" rx="10.72" ry="14.67" rotation="2.20" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="681.21" cy="157.24" rx="10.29" ry="12.39" rotation="20.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="687.05" cy="171.61" rx="3.96" ry="4.64" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="692.06" cy="167.16" rx="4.34" ry="4.64" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="738.94" cy="160.92" rx="10.29" ry="12.39" rotation="20.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="759.25" cy="178.98" rx="8.50" ry="9.73" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="759.27" cy="188.91" rx="1.64" ry="1.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="756.37" cy="199.71" rx="1.64" ry="1.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="751.17" cy="217.17" rx="11.55" ry="16.03" rotation="2.20" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="793.02" cy="198.72" rx="8.08" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="807.78" cy="160.85" rx="12.04" ry="18.37" rotation="20.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="795.07" cy="164.81" rx="13.26" ry="16.48" rotation="20.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="808.00" cy="192.49" rx="3.57" ry="3.77" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="812.88" cy="199.41" rx="8.08" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="822.71" cy="178.55" rx="4.39" ry="4.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="830.47" cy="180.49" rx="4.72" ry="5.61" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="814.67" cy="184.31" rx="5.13" ry="6.54" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="839.84" cy="188.62" rx="2.96" ry="3.07" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="824.70" cy="191.30" rx="1.90" ry="1.95" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="834.36" cy="191.13" rx="1.90" ry="1.95" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="829.96" cy="192.73" rx="1.90" ry="1.95" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="805.76" cy="215.03" rx="1.90" ry="1.95" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="799.86" cy="217.43" rx="1.90" ry="1.95" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="860.16" cy="208.23" rx="1.90" ry="1.95" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="857.76" cy="208.13" rx="1.90" ry="1.95" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="861.70" cy="186.99" rx="2.55" ry="2.61" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="840.15" cy="172.12" rx="2.35" ry="2.47" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="854.71" cy="239.21" rx="3.09" ry="3.14" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="848.07" cy="239.99" rx="2.18" ry="2.24" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="843.02" cy="240.59" rx="1.82" ry="1.74" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="838.77" cy="240.43" rx="1.68" ry="1.74" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="866.99" cy="237.25" rx="3.36" ry="3.55" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="875.06" cy="236.73" rx="3.36" ry="3.55" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="894.85" cy="236.14" rx="3.70" ry="4.06" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="880.43" cy="210.46" rx="7.77" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="870.66" cy="207.63" rx="2.18" ry="2.24" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="880.56" cy="190.83" rx="2.18" ry="2.24" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="887.64" cy="189.45" rx="2.36" ry="2.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="894.00" cy="189.46" rx="2.60" ry="2.79" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="876.25" cy="188.72" rx="3.80" ry="4.18" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="908.80" cy="189.91" rx="2.90" ry="3.14" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="902.88" cy="183.74" rx="1.72" ry="1.79" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="908.17" cy="199.52" rx="1.98" ry="2.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="914.54" cy="199.93" rx="2.31" ry="2.37" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="904.26" cy="201.13" rx="2.31" ry="2.37" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="829.73" cy="214.27" rx="13.85" ry="20.92" rotation="20.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="800.25" cy="255.02" rx="2.35" ry="2.27" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="811.76" cy="254.38" rx="2.84" ry="3.07" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="827.06" cy="258.53" rx="3.09" ry="3.37" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="842.53" cy="258.08" rx="3.77" ry="3.77" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="859.56" cy="257.53" rx="3.77" ry="3.77" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="883.10" cy="255.38" rx="4.20" ry="4.37" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="894.85" cy="250.85" rx="1.90" ry="2.05" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="903.58" cy="249.69" rx="2.37" ry="2.51" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="914.84" cy="248.96" rx="2.76" ry="2.84" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="923.76" cy="196.53" rx="2.31" ry="2.37" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="925.52" cy="196.30" rx="1.88" ry="1.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="928.96" cy="195.23" rx="1.88" ry="1.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="922.86" cy="187.83" rx="1.88" ry="1.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="920.06" cy="190.03" rx="1.88" ry="1.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="849.00" cy="163.22" rx="7.56" ry="8.81" rotation="20.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="865.73" cy="158.95" rx="11.24" ry="13.51" rotation="20.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="901.96" cy="157.43" rx="13.57" ry="17.07" rotation="20.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="935.05" cy="170.92" rx="12.68" ry="15.05" rotation="31.20" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="916.11" cy="163.67" rx="5.18" ry="5.82" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="918.44" cy="177.27" rx="1.98" ry="2.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="934.42" cy="188.64" rx="1.98" ry="2.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="941.68" cy="192.25" rx="1.98" ry="2.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="936.70" cy="196.37" rx="1.75" ry="1.87" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="943.39" cy="207.12" rx="3.86" ry="4.22" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="932.11" cy="215.14" rx="3.59" ry="3.79" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="941.80" cy="223.88" rx="4.10" ry="4.47" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="929.99" cy="232.34" rx="4.76" ry="5.21" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="950.71" cy="246.98" rx="2.69" ry="3.13" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="915.08" cy="179.46" rx="1.88" ry="1.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="713.53" cy="169.10" rx="2.97" ry="3.05" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="372.01" cy="167.47" rx="2.73" ry="2.70" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="365.81" cy="166.97" rx="2.73" ry="2.70" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="572.89" cy="185.43" rx="2.04" ry="2.06" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="640.09" cy="171.78" rx="2.24" ry="2.29" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="751.80" cy="167.75" rx="3.90" ry="4.20" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="821.96" cy="171.91" rx="1.90" ry="1.95" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="953.27" cy="175.64" rx="1.98" ry="2.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="958.17" cy="175.54" rx="1.98" ry="2.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="963.94" cy="175.53" rx="2.41" ry="2.67" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="967.37" cy="176.54" rx="1.98" ry="2.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="972.04" cy="175.28" rx="2.41" ry="2.37" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="961.66" cy="154.94" rx="11.15" ry="16.62" rotation="17.90" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="968.37" cy="170.54" rx="3.86" ry="4.22" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="960.59" cy="191.78" rx="4.71" ry="4.97" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="963.78" cy="185.86" rx="1.97" ry="2.06" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="970.27" cy="184.74" rx="1.97" ry="2.06" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="977.45" cy="184.49" rx="2.10" ry="2.26" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="976.78" cy="199.36" rx="11.51" ry="15.35" rotation="318.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1007.83" cy="202.97" rx="5.22" ry="5.93" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1022.27" cy="196.64" rx="1.97" ry="2.06" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1024.00" cy="211.84" rx="2.30" ry="2.61" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1037.64" cy="209.37" rx="2.71" ry="2.93" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1014.98" cy="214.31" rx="1.62" ry="1.86" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1037.32" cy="177.39" rx="2.13" ry="2.21" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1028.07" cy="175.17" rx="4.08" ry="4.38" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1001.57" cy="175.52" rx="3.98" ry="4.58" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="983.77" cy="170.64" rx="2.71" ry="2.93" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="989.27" cy="171.14" rx="2.71" ry="2.64" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1002.97" cy="164.16" rx="5.67" ry="6.84" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1007.37" cy="169.34" rx="5.67" ry="6.84" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1010.84" cy="229.20" rx="5.22" ry="5.75" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="996.13" cy="227.97" rx="4.86" ry="5.36" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="980.48" cy="235.92" rx="4.86" ry="5.22" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="966.62" cy="250.64" rx="2.95" ry="2.86" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1026.05" cy="249.05" rx="7.00" ry="7.95" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1049.60" cy="211.20" rx="1.62" ry="1.86" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1066.49" cy="209.12" rx="3.36" ry="3.48" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1080.95" cy="200.87" rx="5.00" ry="5.82" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1096.02" cy="213.99" rx="2.88" ry="3.24" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1108.61" cy="203.08" rx="6.04" ry="8.22" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1094.78" cy="169.89" rx="10.53" ry="13.61" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1116.90" cy="181.23" rx="11.31" ry="15.76" rotation="342.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1062.73" cy="166.21" rx="8.08" ry="9.01" rotation="32.90" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1065.00" cy="182.80" rx="12.69" ry="16.36" rotation="18.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1126.84" cy="205.92" rx="2.16" ry="2.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1150.22" cy="205.00" rx="1.93" ry="2.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1142.41" cy="173.99" rx="8.74" ry="11.01" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1164.00" cy="201.74" rx="6.75" ry="8.11" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1065.16" cy="251.66" rx="5.22" ry="5.75" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1062.07" cy="263.49" rx="5.86" ry="6.21" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1086.15" cy="270.97" rx="2.55" ry="2.78" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1077.70" cy="274.45" rx="2.25" ry="2.38" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1074.18" cy="276.36" rx="1.88" ry="1.90" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1114.39" cy="281.17" rx="15.91" ry="22.08" rotation="18.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1141.68" cy="249.28" rx="6.23" ry="6.97" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1138.63" cy="264.92" rx="4.02" ry="4.18" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1153.90" cy="263.73" rx="4.55" ry="4.87" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1165.11" cy="271.45" rx="4.03" ry="4.46" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1174.03" cy="247.10" rx="3.02" ry="3.03" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1136.05" cy="277.54" rx="3.46" ry="3.58" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1158.56" cy="298.67" rx="3.14" ry="3.42" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1157.24" cy="245.09" rx="1.93" ry="2.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1154.44" cy="245.69" rx="1.93" ry="2.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1151.24" cy="245.99" rx="1.93" ry="2.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1172.26" cy="203.49" rx="2.89" ry="3.03" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1181.93" cy="202.28" rx="3.12" ry="3.22" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1189.11" cy="201.69" rx="3.44" ry="3.51" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1195.74" cy="200.64" rx="3.44" ry="3.81" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1210.64" cy="199.09" rx="3.79" ry="4.36" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1201.21" cy="192.26" rx="2.09" ry="2.49" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1205.77" cy="191.09" rx="2.28" ry="2.49" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1197.74" cy="192.99" rx="1.93" ry="2.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1188.40" cy="189.86" rx="5.35" ry="6.79" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1174.24" cy="178.04" rx="4.04" ry="4.81" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1180.43" cy="168.89" rx="6.02" ry="7.31" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1166.25" cy="162.74" rx="15.20" ry="16.26" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1201.70" cy="166.28" rx="12.05" ry="12.57" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1219.74" cy="190.29" rx="3.44" ry="3.51" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1235.30" cy="188.60" rx="3.25" ry="3.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1261.65" cy="194.05" rx="4.15" ry="4.70" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1236.37" cy="161.02" rx="12.83" ry="14.87" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1262.62" cy="163.60" rx="7.73" ry="8.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1259.23" cy="173.30" rx="2.72" ry="2.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1266.28" cy="190.64" rx="2.07" ry="2.24" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1214.02" cy="228.02" rx="16.00" ry="22.20" rotation="22.20" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1275.73" cy="222.82" rx="12.05" ry="17.13" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1240.95" cy="269.43" rx="5.43" ry="5.37" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1217.41" cy="276.39" rx="5.43" ry="5.37" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1210.95" cy="267.73" rx="4.73" ry="4.63" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1198.03" cy="286.42" rx="5.53" ry="6.93" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1200.48" cy="306.98" rx="3.92" ry="4.32" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1215.79" cy="313.81" rx="10.66" ry="12.46" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1084.41" cy="314.44" rx="3.14" ry="3.42" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1195.97" cy="359.80" rx="5.23" ry="5.70" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1199.73" cy="372.79" rx="4.49" ry="5.06" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1229.72" cy="396.11" rx="15.47" ry="17.43" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1258.26" cy="394.07" rx="4.69" ry="5.33" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1240.24" cy="418.50" rx="4.46" ry="4.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1227.44" cy="417.13" rx="4.46" ry="4.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1138.80" cy="359.88" rx="3.88" ry="4.06" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1132.54" cy="359.38" rx="3.88" ry="4.06" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1128.09" cy="400.64" rx="4.47" ry="4.47" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1154.72" cy="406.04" rx="4.47" ry="4.47" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1109.81" cy="360.67" rx="3.53" ry="3.62" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1123.72" cy="377.69" rx="15.73" ry="17.85" rotation="18.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1081.71" cy="337.26" rx="15.33" ry="15.61" rotation="18.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1059.67" cy="315.81" rx="5.33" ry="5.49" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1098.91" cy="398.45" rx="4.69" ry="5.05" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1120.59" cy="438.01" rx="15.33" ry="15.61" rotation="18.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1160.50" cy="450.82" rx="14.09" ry="15.61" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1178.48" cy="437.69" rx="4.67" ry="4.74" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1200.37" cy="440.45" rx="4.67" ry="4.74" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1229.26" cy="450.85" rx="4.04" ry="4.04" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1053.58" cy="374.05" rx="5.55" ry="6.13" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1060.05" cy="379.65" rx="3.03" ry="2.98" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1078.83" cy="401.81" rx="3.81" ry="3.84" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1062.13" cy="401.30" rx="3.03" ry="3.11" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1072.84" cy="402.07" rx="2.61" ry="2.75" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1067.69" cy="401.55" rx="2.69" ry="2.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1030.57" cy="400.57" rx="13.82" ry="15.61" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1005.23" cy="371.97" rx="6.07" ry="6.63" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1027.86" cy="421.88" rx="6.07" ry="6.63" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1032.17" cy="432.97" rx="3.81" ry="3.84" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1037.50" cy="470.26" rx="3.81" ry="3.84" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1047.03" cy="471.18" rx="4.02" ry="4.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1058.24" cy="473.10" rx="4.51" ry="4.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1072.93" cy="474.44" rx="4.51" ry="4.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1049.59" cy="483.68" rx="3.51" ry="3.43" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1065.29" cy="484.38" rx="4.51" ry="4.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1039.05" cy="481.87" rx="2.55" ry="2.62" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1034.11" cy="480.51" rx="2.55" ry="2.62" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1019.25" cy="458.81" rx="13.82" ry="15.61" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1008.46" cy="421.76" rx="3.04" ry="3.29" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1018.02" cy="436.88" rx="2.87" ry="2.88" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="994.26" cy="442.12" rx="5.89" ry="6.38" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="967.55" cy="452.47" rx="12.95" ry="15.72" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="957.40" cy="435.40" rx="4.45" ry="4.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="949.19" cy="431.53" rx="4.45" ry="4.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="944.02" cy="425.07" rx="4.23" ry="4.07" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="931.92" cy="431.87" rx="3.33" ry="3.53" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="925.49" cy="431.23" rx="3.33" ry="3.53" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="913.53" cy="427.55" rx="3.67" ry="3.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="919.17" cy="432.46" rx="2.73" ry="2.81" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="895.18" cy="425.86" rx="3.47" ry="3.44" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="888.11" cy="419.28" rx="4.04" ry="4.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="881.89" cy="426.63" rx="3.33" ry="3.53" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="995.81" cy="312.93" rx="4.11" ry="4.07" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="979.35" cy="312.64" rx="3.95" ry="3.94" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="960.61" cy="314.48" rx="2.95" ry="3.14" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="964.02" cy="369.13" rx="4.98" ry="5.22" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="953.55" cy="367.25" rx="5.75" ry="6.00" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="956.25" cy="315.59" rx="2.50" ry="2.61" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="939.83" cy="390.84" rx="3.42" ry="3.46" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="921.48" cy="367.39" rx="4.57" ry="4.91" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="907.41" cy="366.81" rx="4.57" ry="4.91" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="900.96" cy="352.60" rx="7.96" ry="8.10" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="894.33" cy="366.62" rx="4.17" ry="4.19" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="884.02" cy="369.19" rx="3.47" ry="3.53" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="894.25" cy="388.97" rx="13.45" ry="15.43" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="873.61" cy="370.11" rx="2.94" ry="3.12" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="858.90" cy="366.00" rx="8.35" ry="8.95" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="846.83" cy="345.65" rx="13.12" ry="14.20" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="820.73" cy="354.38" rx="11.28" ry="12.52" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="794.62" cy="321.39" rx="3.73" ry="3.81" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="783.09" cy="318.41" rx="3.73" ry="3.81" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="916.63" cy="299.16" rx="13.25" ry="14.36" rotation="18.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="920.72" cy="264.18" rx="11.11" ry="12.20" rotation="18.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="858.98" cy="286.19" rx="11.11" ry="12.20" rotation="4.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="865.20" cy="266.30" rx="2.76" ry="2.84" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="868.52" cy="271.37" rx="2.33" ry="2.47" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="856.78" cy="270.78" rx="2.32" ry="2.23" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="853.06" cy="271.90" rx="2.11" ry="2.23" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="834.87" cy="298.80" rx="10.15" ry="10.28" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="778.50" cy="286.36" rx="10.15" ry="10.28" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="756.22" cy="265.91" rx="11.97" ry="15.89" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="714.88" cy="272.48" rx="10.02" ry="11.63" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="686.25" cy="309.73" rx="4.35" ry="4.37" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="658.46" cy="283.94" rx="2.74" ry="2.86" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="659.21" cy="300.60" rx="3.74" ry="3.67" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="664.10" cy="317.77" rx="12.45" ry="17.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="647.65" cy="286.36" rx="2.14" ry="2.21" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="634.58" cy="283.93" rx="2.64" ry="2.82" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="627.08" cy="285.90" rx="2.29" ry="2.44" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="613.67" cy="281.81" rx="3.35" ry="3.94" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="618.01" cy="285.28" rx="2.14" ry="2.21" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="623.65" cy="285.28" rx="2.14" ry="2.21" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="641.77" cy="286.48" rx="2.29" ry="2.44" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="589.72" cy="284.03" rx="3.28" ry="3.32" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="581.67" cy="285.03" rx="2.65" ry="2.77" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="576.73" cy="286.72" rx="2.14" ry="2.21" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="576.11" cy="311.59" rx="3.09" ry="3.36" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="610.31" cy="312.71" rx="3.65" ry="3.89" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="567.52" cy="312.01" rx="2.33" ry="2.32" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="563.33" cy="312.84" rx="2.33" ry="2.32" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="564.92" cy="330.02" rx="11.35" ry="12.16" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="521.51" cy="266.24" rx="11.35" ry="12.41" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="505.91" cy="290.64" rx="5.22" ry="5.37" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="502.00" cy="330.25" rx="10.80" ry="11.90" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="885.03" cy="403.06" rx="5.63" ry="5.71" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="866.72" cy="406.12" rx="4.92" ry="5.13" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="856.96" cy="405.26" rx="4.92" ry="5.13" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="841.01" cy="406.02" rx="4.61" ry="4.71" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="833.00" cy="406.12" rx="3.41" ry="3.38" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="827.03" cy="406.17" rx="3.82" ry="3.83" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="819.85" cy="406.54" rx="3.82" ry="3.83" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="824.97" cy="396.59" rx="3.82" ry="3.83" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="820.61" cy="424.05" rx="6.95" ry="6.98" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="833.64" cy="436.12" rx="6.95" ry="6.98" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="887.88" cy="447.81" rx="5.95" ry="6.94" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="869.18" cy="449.15" rx="12.68" ry="15.25" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="786.56" cy="379.79" rx="7.13" ry="8.24" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="808.00" cy="407.99" rx="2.91" ry="2.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="804.79" cy="393.23" rx="3.96" ry="3.72" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="796.25" cy="396.82" rx="3.96" ry="4.13" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="784.76" cy="393.38" rx="3.46" ry="3.51" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="778.47" cy="391.97" rx="2.98" ry="3.01" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="762.46" cy="319.33" rx="2.84" ry="2.92" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="757.62" cy="319.59" rx="2.17" ry="2.29" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="713.30" cy="382.26" rx="8.80" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="711.50" cy="412.91" rx="5.15" ry="5.71" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="701.30" cy="437.45" rx="13.35" ry="14.90" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="758.73" cy="431.75" rx="13.35" ry="14.90" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="754.34" cy="455.82" rx="4.31" ry="4.68" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="756.43" cy="479.99" rx="2.91" ry="2.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="771.05" cy="481.93" rx="2.99" ry="3.12" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="748.09" cy="479.22" rx="2.47" ry="2.59" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="894.15" cy="487.35" rx="5.35" ry="5.55" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="928.22" cy="481.43" rx="5.35" ry="5.55" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="914.67" cy="512.85" rx="5.80" ry="7.20" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="892.33" cy="520.48" rx="10.02" ry="12.12" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="940.41" cy="482.78" rx="4.44" ry="4.59" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="936.71" cy="450.76" rx="3.42" ry="3.46" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="838.63" cy="482.38" rx="15.72" ry="20.67" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="814.75" cy="528.25" rx="11.95" ry="15.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="857.80" cy="543.05" rx="11.95" ry="13.75" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="808.06" cy="554.95" rx="14.34" ry="16.90" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="823.76" cy="559.96" rx="4.54" ry="5.84" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="876.09" cy="515.85" rx="2.99" ry="3.12" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="860.88" cy="494.34" rx="8.97" ry="12.12" rotation="33.10" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="786.01" cy="521.36" rx="2.29" ry="2.31" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="775.35" cy="520.77" rx="1.85" ry="1.92" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="781.27" cy="520.16" rx="2.48" ry="2.54" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="763.31" cy="535.79" rx="2.04" ry="2.19" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="747.50" cy="539.00" rx="5.05" ry="6.10" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="729.77" cy="516.82" rx="3.88" ry="4.52" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="709.67" cy="540.87" rx="3.08" ry="3.43" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="699.09" cy="540.24" rx="3.08" ry="3.43" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="690.49" cy="539.44" rx="3.08" ry="3.43" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="685.33" cy="540.03" rx="2.78" ry="3.18" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="679.09" cy="540.06" rx="2.44" ry="2.76" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="673.19" cy="539.94" rx="2.44" ry="2.76" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="661.18" cy="537.95" rx="8.68" ry="10.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="666.63" cy="506.42" rx="9.68" ry="14.92" rotation="39.70" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="691.66" cy="517.24" rx="6.19" ry="4.52" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="627.11" cy="540.16" rx="4.09" ry="4.69" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="625.36" cy="508.77" rx="2.14" ry="2.18" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="630.23" cy="513.98" rx="1.88" ry="1.97" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="625.99" cy="516.14" rx="1.88" ry="1.97" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="619.89" cy="512.54" rx="1.88" ry="1.97" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="644.69" cy="556.64" rx="1.88" ry="1.97" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="661.01" cy="561.88" rx="2.54" ry="2.62" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="719.18" cy="576.38" rx="10.42" ry="12.28" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="749.99" cy="577.54" rx="10.42" ry="12.28" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="759.63" cy="589.30" rx="2.24" ry="2.71" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="759.26" cy="596.87" rx="3.04" ry="3.36" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="775.58" cy="584.05" rx="5.58" ry="6.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="767.35" cy="587.90" rx="2.24" ry="2.45" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="775.25" cy="609.38" rx="11.30" ry="13.03" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="781.50" cy="595.25" rx="7.74" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="791.25" cy="583.31" rx="3.04" ry="3.52" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="793.27" cy="588.59" rx="3.04" ry="3.52" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="815.07" cy="583.74" rx="3.49" ry="4.24" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="823.83" cy="579.94" rx="5.43" ry="7.26" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="843.97" cy="585.99" rx="3.93" ry="5.16" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="848.27" cy="581.51" rx="3.49" ry="4.18" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="858.16" cy="587.23" rx="4.01" ry="5.47" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="807.51" cy="600.94" rx="1.99" ry="2.09" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="821.04" cy="601.37" rx="2.66" ry="2.88" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="829.10" cy="603.28" rx="3.40" ry="3.57" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="840.39" cy="602.22" rx="2.51" ry="3.22" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="846.90" cy="602.44" rx="3.05" ry="3.22" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="828.61" cy="610.96" rx="6.84" ry="7.79" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="802.75" cy="600.34" rx="1.65" ry="1.79" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="790.61" cy="603.09" rx="2.44" ry="2.53" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="751.07" cy="603.67" rx="2.93" ry="3.48" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="742.28" cy="603.08" rx="2.93" ry="3.48" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="815.83" cy="604.33" rx="1.99" ry="2.09" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1131.86" cy="454.99" rx="4.06" ry="4.21" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1104.53" cy="454.84" rx="2.62" ry="2.84" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1109.45" cy="477.21" rx="5.70" ry="6.09" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1097.55" cy="457.25" rx="2.25" ry="2.20" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1150.28" cy="483.38" rx="4.06" ry="4.21" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1239.69" cy="503.07" rx="5.06" ry="5.43" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1225.63" cy="528.17" rx="11.33" ry="14.18" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1176.62" cy="524.15" rx="14.38" ry="17.70" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1216.38" cy="558.30" rx="2.09" ry="2.39" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1212.42" cy="559.44" rx="2.09" ry="2.39" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1196.56" cy="555.03" rx="1.84" ry="2.04" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1186.16" cy="560.64" rx="3.99" ry="2.04" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1176.66" cy="562.80" rx="2.13" ry="2.04" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1167.51" cy="562.80" rx="1.81" ry="2.04" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1163.30" cy="563.48" rx="1.81" ry="2.04" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1160.50" cy="562.88" rx="1.81" ry="2.04" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1268.90" cy="579.63" rx="14.55" ry="18.52" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1215.15" cy="577.13" rx="4.50" ry="5.03" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1227.33" cy="592.55" rx="4.92" ry="6.05" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1199.63" cy="589.33" rx="4.32" ry="4.38" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1194.16" cy="593.23" rx="4.32" ry="4.38" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1179.57" cy="584.63" rx="3.98" ry="4.38" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1173.82" cy="585.31" rx="3.77" ry="3.96" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1173.19" cy="597.18" rx="6.01" ry="7.97" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1160.52" cy="595.09" rx="2.48" ry="2.86" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1179.72" cy="611.30" rx="6.37" ry="7.65" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1199.57" cy="619.24" rx="12.28" ry="14.16" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1212.16" cy="601.13" rx="13.23" ry="15.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1230.02" cy="602.94" rx="2.43" ry="2.46" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1148.86" cy="595.94" rx="2.48" ry="2.49" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1138.55" cy="591.57" rx="6.90" ry="7.78" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1123.55" cy="581.13" rx="5.05" ry="5.98" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1136.16" cy="562.33" rx="2.48" ry="2.49" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1127.78" cy="549.00" rx="12.13" ry="13.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1133.37" cy="514.54" rx="11.02" ry="12.64" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1116.12" cy="562.91" rx="1.78" ry="1.76" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1118.59" cy="591.83" rx="2.56" ry="2.67" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1113.25" cy="592.50" rx="1.90" ry="2.00" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1109.06" cy="592.43" rx="1.90" ry="2.00" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1139.32" cy="618.16" rx="13.24" ry="17.25" rotation="325.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1122.40" cy="604.42" rx="2.95" ry="3.68" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1099.04" cy="604.30" rx="13.90" ry="18.14" rotation="333.00" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1099.37" cy="580.72" rx="4.88" ry="5.28" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1061.43" cy="578.19" rx="4.12" ry="5.28" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1066.17" cy="582.53" rx="2.83" ry="3.18" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1052.80" cy="582.29" rx="2.83" ry="3.18" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1040.30" cy="580.00" rx="1.90" ry="2.00" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1035.50" cy="579.70" rx="1.90" ry="2.00" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1039.40" cy="600.70" rx="9.70" ry="12.75" rotation="339.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1084.10" cy="613.16" rx="10.75" ry="11.34" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1078.61" cy="534.63" rx="4.88" ry="5.28" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1037.28" cy="539.47" rx="5.37" ry="5.93" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="998.16" cy="530.06" rx="13.24" ry="14.04" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1041.27" cy="513.85" rx="2.13" ry="2.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1032.36" cy="513.99" rx="3.24" ry="3.46" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1017.31" cy="512.01" rx="3.79" ry="4.54" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1023.41" cy="514.59" rx="3.34" ry="3.41" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1058.56" cy="515.34" rx="2.14" ry="2.09" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1064.26" cy="515.74" rx="2.14" ry="2.14" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1070.26" cy="508.66" rx="1.74" ry="1.71" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1076.86" cy="508.88" rx="1.74" ry="1.71" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1082.56" cy="515.18" rx="1.74" ry="1.71" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1077.76" cy="515.48" rx="1.74" ry="1.71" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1073.76" cy="515.98" rx="1.74" ry="1.71" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1086.06" cy="511.94" rx="2.79" ry="2.66" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1092.66" cy="513.09" rx="2.04" ry="2.06" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="995.03" cy="491.92" rx="4.62" ry="5.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="963.56" cy="515.98" rx="4.62" ry="5.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="948.70" cy="531.73" rx="12.20" ry="14.48" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1006.74" cy="575.08" rx="3.31" ry="3.57" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="994.85" cy="575.51" rx="3.20" ry="3.46" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="984.21" cy="574.10" rx="2.74" ry="3.00" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="975.29" cy="573.07" rx="2.06" ry="2.12" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="970.78" cy="572.03" rx="1.87" ry="2.03" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1102.92" cy="507.35" rx="2.04" ry="2.06" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1089.72" cy="507.15" rx="2.04" ry="2.06" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1106.34" cy="526.19" rx="2.51" ry="2.56" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1000.88" cy="601.76" rx="4.12" ry="5.59" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1008.25" cy="604.38" rx="2.45" ry="2.57" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="976.93" cy="609.96" rx="4.47" ry="4.89" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="954.76" cy="594.29" rx="3.79" ry="4.16" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="956.36" cy="601.34" rx="2.99" ry="3.31" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="967.01" cy="598.14" rx="2.94" ry="3.26" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="941.81" cy="593.39" rx="3.19" ry="3.56" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="949.85" cy="599.32" rx="2.50" ry="2.67" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="939.22" cy="606.65" rx="5.77" ry="6.05" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="927.28" cy="589.72" rx="9.23" ry="11.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="913.15" cy="604.10" rx="15.55" ry="18.75" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="884.35" cy="588.70" rx="2.20" ry="2.45" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="869.68" cy="612.01" rx="6.97" ry="8.19" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="865.11" cy="600.08" rx="3.59" ry="3.97" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="852.31" cy="615.75" rx="12.39" ry="13.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="896.16" cy="594.27" rx="2.20" ry="2.17" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="883.70" cy="606.30" rx="4.01" ry="4.73" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="895.47" cy="609.73" rx="5.88" ry="6.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="988.57" cy="606.01" rx="3.03" ry="3.34" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="994.79" cy="606.73" rx="3.76" ry="3.93" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="873.27" cy="599.72" rx="3.19" ry="3.56" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="878.63" cy="601.10" rx="3.19" ry="3.56" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="707.34" cy="597.34" rx="2.36" ry="2.49" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="714.28" cy="597.06" rx="2.72" ry="2.89" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="701.83" cy="604.11" rx="3.88" ry="5.49" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="710.45" cy="616.57" rx="14.45" ry="16.22" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="694.02" cy="596.91" rx="2.36" ry="2.49" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="680.93" cy="607.16" rx="8.87" ry="10.39" rotation="338.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="659.55" cy="586.62" rx="11.49" ry="13.79" rotation="345.00" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="657.02" cy="609.31" rx="11.49" ry="13.79" rotation="345.00" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="635.20" cy="597.96" rx="5.85" ry="6.49" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="622.98" cy="600.55" rx="3.62" ry="4.10" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="598.03" cy="542.20" rx="12.32" ry="15.55" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="604.90" cy="513.02" rx="13.10" ry="16.37" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="581.77" cy="503.39" rx="3.98" ry="4.09" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="580.43" cy="531.61" rx="2.52" ry="2.59" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="570.64" cy="538.19" rx="4.11" ry="4.31" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="572.03" cy="557.99" rx="4.11" ry="4.31" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="568.83" cy="514.49" rx="1.88" ry="1.97" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="563.43" cy="510.59" rx="1.88" ry="1.97" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="537.41" cy="506.00" rx="3.44" ry="3.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="528.73" cy="502.69" rx="3.44" ry="3.40" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="542.91" cy="556.75" rx="2.84" ry="3.00" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="535.70" cy="558.45" rx="2.25" ry="2.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="530.53" cy="557.29" rx="2.25" ry="2.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="523.99" cy="556.09" rx="1.76" ry="1.99" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="553.45" cy="547.35" rx="10.90" ry="12.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="507.73" cy="528.09" rx="3.88" ry="4.31" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="503.22" cy="511.19" rx="4.13" ry="4.81" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="561.43" cy="575.19" rx="10.90" ry="12.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="593.50" cy="458.20" rx="5.45" ry="5.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="634.49" cy="421.46" rx="3.66" ry="3.31" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="611.03" cy="413.96" rx="3.37" ry="3.41" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="600.79" cy="413.52" rx="2.66" ry="2.67" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="610.67" cy="389.81" rx="3.68" ry="3.49" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="610.20" cy="384.73" rx="3.68" ry="3.49" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="588.81" cy="378.77" rx="3.99" ry="4.43" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="578.30" cy="378.33" rx="3.99" ry="4.43" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="569.90" cy="378.43" rx="3.99" ry="4.43" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="552.95" cy="385.65" rx="10.20" ry="11.70" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="531.98" cy="367.56" rx="13.78" ry="17.94" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="666.76" cy="434.70" rx="2.91" ry="2.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="529.25" cy="513.01" rx="1.88" ry="1.97" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="513.90" cy="489.40" rx="6.35" ry="7.90" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="503.13" cy="479.57" rx="6.70" ry="8.50" rotation="334.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="498.23" cy="542.95" rx="8.18" ry="9.65" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="509.85" cy="568.21" rx="2.25" ry="2.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="485.10" cy="564.90" rx="2.80" ry="2.95" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="475.15" cy="562.91" rx="1.76" ry="1.99" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="594.46" cy="593.12" rx="11.12" ry="13.24" rotation="345.00" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="575.74" cy="607.62" rx="8.94" ry="9.67" rotation="351.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="573.74" cy="598.84" rx="5.16" ry="5.78" rotation="351.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="559.12" cy="593.15" rx="4.68" ry="5.45" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="543.64" cy="594.83" rx="4.86" ry="5.62" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="503.96" cy="589.61" rx="4.86" ry="5.62" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="512.65" cy="606.41" rx="8.31" ry="10.63" rotation="358.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="529.35" cy="607.81" rx="13.23" ry="17.21" rotation="345.00" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="479.49" cy="600.10" rx="8.54" ry="9.63" rotation="351.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="457.65" cy="590.16" rx="1.90" ry="2.09" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="442.35" cy="576.71" rx="8.31" ry="10.63" rotation="358.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="429.18" cy="567.11" rx="2.67" ry="2.95" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="406.00" cy="568.81" rx="2.50" ry="2.74" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="412.51" cy="587.76" rx="12.52" ry="16.13" rotation="358.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="434.13" cy="598.48" rx="3.92" ry="4.52" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="438.82" cy="605.99" rx="4.58" ry="4.96" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="430.46" cy="606.71" rx="4.58" ry="4.96" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="447.74" cy="604.97" rx="5.71" ry="6.63" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="434.08" cy="586.95" rx="1.67" ry="1.75" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="431.15" cy="587.01" rx="1.67" ry="1.75" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="396.55" cy="590.01" rx="1.67" ry="1.75" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="386.32" cy="605.79" rx="11.45" ry="14.70" rotation="358.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="374.84" cy="593.03" rx="3.01" ry="3.17" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="378.42" cy="571.67" rx="3.63" ry="3.73" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="371.55" cy="571.71" rx="2.50" ry="2.74" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="363.43" cy="571.00" rx="1.87" ry="1.90" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="355.48" cy="591.23" rx="3.02" ry="3.32" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="344.67" cy="592.61" rx="2.48" ry="2.71" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="343.58" cy="579.20" rx="8.33" ry="10.05" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="335.15" cy="589.31" rx="1.87" ry="1.90" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="341.87" cy="605.69" rx="7.49" ry="9.92" rotation="22.10" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="347.56" cy="603.98" rx="5.24" ry="6.23" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="329.69" cy="595.05" rx="2.96" ry="3.05" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="316.18" cy="603.44" rx="10.83" ry="13.64" rotation="325.90" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="329.25" cy="588.71" rx="1.87" ry="1.90" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="295.90" cy="610.21" rx="13.54" ry="15.38" rotation="330.00" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="268.26" cy="597.81" rx="2.81" ry="3.05" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="248.82" cy="579.97" rx="11.38" ry="13.72" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="275.68" cy="550.58" rx="12.07" ry="16.96" rotation="346.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="295.80" cy="543.78" rx="3.25" ry="3.47" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="308.73" cy="541.26" rx="2.41" ry="2.56" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="335.42" cy="538.23" rx="2.78" ry="2.78" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="336.24" cy="531.51" rx="2.51" ry="2.78" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="344.97" cy="531.66" rx="2.73" ry="2.99" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="366.26" cy="544.16" rx="11.39" ry="14.24" rotation="341.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="377.16" cy="530.31" rx="3.99" ry="4.34" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="385.69" cy="509.00" rx="2.61" ry="2.75" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="379.85" cy="511.51" rx="1.87" ry="1.90" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="375.25" cy="512.41" rx="1.87" ry="1.90" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="401.86" cy="528.57" rx="3.59" ry="3.67" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="494.10" cy="598.04" rx="2.25" ry="2.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="542.13" cy="511.69" rx="1.88" ry="1.97" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="514.33" cy="513.19" rx="1.88" ry="1.97" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="479.03" cy="514.11" rx="2.52" ry="2.54" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="471.57" cy="517.79" rx="4.28" ry="4.51" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="449.78" cy="532.49" rx="6.92" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="458.23" cy="505.80" rx="3.82" ry="4.05" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="446.55" cy="496.72" rx="4.90" ry="5.68" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="429.98" cy="515.65" rx="11.33" ry="14.45" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="429.33" cy="478.97" rx="5.72" ry="6.07" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="472.30" cy="467.18" rx="11.60" ry="15.18" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="506.36" cy="434.26" rx="12.19" ry="14.59" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="461.22" cy="426.80" rx="10.17" ry="11.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="471.08" cy="399.77" rx="5.62" ry="5.78" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="427.63" cy="407.49" rx="5.62" ry="5.78" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="476.25" cy="318.92" rx="3.43" ry="3.46" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="466.16" cy="319.69" rx="2.94" ry="3.09" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="460.03" cy="319.37" rx="2.94" ry="3.09" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="443.37" cy="324.16" rx="12.83" ry="12.74" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="433.26" cy="288.34" rx="5.22" ry="5.56" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="401.89" cy="294.21" rx="3.56" ry="3.70" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="393.06" cy="323.34" rx="7.06" ry="7.64" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="382.41" cy="291.05" rx="4.07" ry="3.94" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="363.90" cy="273.73" rx="5.48" ry="5.47" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="363.44" cy="292.60" rx="4.06" ry="3.95" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="353.30" cy="294.80" rx="3.95" ry="3.95" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="342.51" cy="290.23" rx="6.84" ry="7.78" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="306.36" cy="270.68" rx="4.04" ry="4.07" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="326.43" cy="293.61" rx="2.17" ry="2.16" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="322.87" cy="293.60" rx="2.17" ry="2.16" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="278.40" cy="271.07" rx="3.65" ry="3.73" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="319.37" cy="294.79" rx="2.17" ry="2.16" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="254.77" cy="252.50" rx="2.17" ry="2.16" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="269.88" cy="280.48" rx="5.52" ry="5.83" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="261.60" cy="270.17" rx="3.10" ry="3.13" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="255.48" cy="270.96" rx="2.93" ry="2.91" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="250.20" cy="269.01" rx="2.70" ry="2.65" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="244.84" cy="270.77" rx="2.29" ry="2.37" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="241.23" cy="271.24" rx="1.98" ry="2.24" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="252.80" cy="297.22" rx="11.70" ry="13.79" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="670.23" cy="406.26" rx="3.66" ry="3.59" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="404.05" cy="362.13" rx="6.80" ry="7.22" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="393.37" cy="381.37" rx="13.00" ry="15.18" rotation="337.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="373.64" cy="367.10" rx="5.62" ry="5.78" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="361.02" cy="347.71" rx="10.65" ry="11.74" rotation="329.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="347.36" cy="336.98" rx="5.62" ry="5.78" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="336.40" cy="331.54" rx="6.95" ry="7.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="367.52" cy="403.08" rx="4.90" ry="4.89" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="357.68" cy="399.62" rx="4.90" ry="4.89" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="349.03" cy="402.92" rx="4.67" ry="4.56" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="337.28" cy="363.50" rx="4.67" ry="4.56" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="327.54" cy="362.85" rx="4.01" ry="4.25" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="320.08" cy="362.11" rx="3.48" ry="3.69" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="292.01" cy="341.59" rx="11.66" ry="12.82" rotation="1.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="314.04" cy="362.08" rx="3.19" ry="3.38" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="307.90" cy="361.49" rx="3.55" ry="3.61" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="302.70" cy="365.54" rx="3.35" ry="3.56" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="326.32" cy="393.70" rx="10.29" ry="11.04" rotation="32.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="339.40" cy="404.00" rx="4.67" ry="4.56" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="301.07" cy="394.32" rx="6.38" ry="6.98" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="283.91" cy="385.86" rx="9.79" ry="11.09" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="262.68" cy="352.47" rx="3.52" ry="3.88" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="231.44" cy="347.34" rx="3.31" ry="3.49" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="217.29" cy="347.80" rx="2.66" ry="2.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="189.52" cy="350.82" rx="6.73" ry="7.47" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="214.54" cy="375.56" rx="3.71" ry="3.99" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="189.82" cy="322.06" rx="9.17" ry="10.49" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="204.36" cy="295.70" rx="9.99" ry="11.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="207.40" cy="277.80" rx="3.31" ry="3.49" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="185.19" cy="278.38" rx="2.96" ry="2.97" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="390.24" cy="466.39" rx="3.85" ry="3.48" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="382.48" cy="445.74" rx="4.02" ry="4.44" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="370.75" cy="479.64" rx="5.55" ry="5.76" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="359.95" cy="466.33" rx="5.55" ry="5.76" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="342.45" cy="434.49" rx="6.95" ry="7.54" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="340.41" cy="468.43" rx="4.29" ry="4.68" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="351.93" cy="480.77" rx="4.92" ry="5.33" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="340.91" cy="481.45" rx="5.04" ry="5.45" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="316.70" cy="460.24" rx="5.40" ry="5.69" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="296.12" cy="488.37" rx="5.83" ry="6.53" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="278.85" cy="474.33" rx="2.61" ry="2.75" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="275.65" cy="468.13" rx="2.61" ry="2.75" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="270.52" cy="483.84" rx="2.33" ry="2.54" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="316.96" cy="489.05" rx="11.69" ry="18.35" rotation="14.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="268.28" cy="507.16" rx="4.12" ry="4.31" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="251.21" cy="504.85" rx="8.94" ry="10.15" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="242.45" cy="483.83" rx="8.94" ry="10.15" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="254.04" cy="479.33" rx="2.33" ry="2.54" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="256.75" cy="466.43" rx="2.33" ry="2.54" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="233.41" cy="472.58" rx="2.14" ry="2.28" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="231.45" cy="486.13" rx="2.14" ry="2.28" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="253.54" cy="464.73" rx="2.33" ry="2.54" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="230.54" cy="517.24" rx="9.74" ry="12.01" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="197.55" cy="502.52" rx="2.50" ry="2.58" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="182.17" cy="507.83" rx="3.08" ry="3.37" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="191.03" cy="478.88" rx="7.82" ry="9.42" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="173.97" cy="532.35" rx="9.88" ry="11.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="162.55" cy="499.19" rx="8.50" ry="10.16" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="156.16" cy="513.51" rx="4.74" ry="5.24" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="142.12" cy="511.15" rx="2.03" ry="2.10" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="138.25" cy="511.43" rx="2.03" ry="2.10" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="125.61" cy="514.46" rx="4.34" ry="4.94" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="130.80" cy="484.18" rx="10.50" ry="11.83" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="109.80" cy="521.92" rx="3.20" ry="3.48" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="78.17" cy="515.68" rx="4.38" ry="5.02" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="64.33" cy="515.43" rx="4.72" ry="5.02" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="59.81" cy="495.13" rx="3.99" ry="4.48" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="57.35" cy="516.93" rx="2.03" ry="2.10" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="51.11" cy="515.92" rx="1.79" ry="1.87" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="41.18" cy="513.28" rx="3.57" ry="4.12" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="328.54" cy="530.35" rx="2.51" ry="2.78" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="405.78" cy="506.27" rx="2.42" ry="2.53" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="174.76" cy="279.74" rx="2.73" ry="2.67" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="169.72" cy="280.39" rx="2.42" ry="2.54" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="147.10" cy="301.15" rx="4.02" ry="4.14" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="150.17" cy="343.94" rx="13.18" ry="13.76" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="131.54" cy="329.86" rx="3.20" ry="3.30" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="128.74" cy="348.30" rx="5.01" ry="5.10" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="116.92" cy="341.67" rx="3.03" ry="3.11" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="96.18" cy="333.73" rx="8.24" ry="8.53" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="109.22" cy="292.01" rx="4.02" ry="4.14" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="76.41" cy="280.69" rx="5.24" ry="5.21" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="88.65" cy="294.45" rx="8.34" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="56.51" cy="275.31" rx="5.24" ry="5.21" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="61.26" cy="294.17" rx="2.59" ry="2.77" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="56.12" cy="292.34" rx="2.42" ry="2.29" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="50.34" cy="292.40" rx="2.09" ry="2.29" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="37.32" cy="287.92" rx="2.93" ry="2.92" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="26.77" cy="280.99" rx="4.18" ry="4.36" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="28.09" cy="264.12" rx="6.91" ry="7.93" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="14.66" cy="282.80" rx="4.18" ry="4.36" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="19.60" cy="315.51" rx="9.70" ry="11.70" rotation="321.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="36.86" cy="327.70" rx="4.18" ry="4.36" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="45.24" cy="331.01" rx="2.81" ry="3.09" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="50.86" cy="330.40" rx="2.81" ry="3.09" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="56.53" cy="329.01" rx="3.32" ry="3.49" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="286.64" cy="612.22" rx="13.54" ry="15.38" rotation="306.00" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="236.78" cy="602.60" rx="11.58" ry="13.55" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="418.62" cy="609.54" rx="7.31" ry="8.42" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="222.65" cy="603.59" rx="4.10" ry="4.51" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="199.19" cy="607.08" rx="9.20" ry="11.56" rotation="349.00" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="208.88" cy="599.37" rx="3.17" ry="3.37" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="169.82" cy="601.73" rx="5.28" ry="7.12" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="137.42" cy="560.63" rx="7.13" ry="8.67" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="137.50" cy="578.57" rx="10.95" ry="12.38" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="145.20" cy="603.83" rx="8.34" ry="9.75" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="113.36" cy="592.26" rx="5.28" ry="6.29" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="106.77" cy="606.99" rx="5.94" ry="7.05" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="123.62" cy="605.01" rx="5.11" ry="6.11" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="84.32" cy="577.07" rx="2.03" ry="2.10" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="78.80" cy="586.79" rx="2.03" ry="2.10" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="59.62" cy="555.34" rx="3.13" ry="4.24" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="66.10" cy="564.25" rx="4.60" ry="5.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="73.52" cy="595.99" rx="2.43" ry="2.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="66.16" cy="595.39" rx="2.43" ry="2.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="76.02" cy="601.59" rx="2.68" ry="2.86" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="68.95" cy="604.64" rx="3.75" ry="5.31" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="57.76" cy="597.65" rx="4.30" ry="4.70" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="49.79" cy="588.04" rx="4.21" ry="4.91" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="43.28" cy="606.97" rx="5.17" ry="8.88" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="49.14" cy="598.94" rx="3.86" ry="4.06" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="35.70" cy="597.88" rx="3.65" ry="3.73" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="25.98" cy="606.59" rx="10.63" ry="12.71" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="29.09" cy="556.93" rx="7.71" ry="9.38" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="28.84" cy="541.87" rx="5.71" ry="5.87" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="38.24" cy="578.29" rx="8.46" ry="9.81" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="20.85" cy="572.02" rx="12.70" ry="14.18" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="18.50" cy="588.56" rx="4.60" ry="5.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="3.95" cy="541.83" rx="5.20" ry="6.77" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="20.24" cy="512.02" rx="3.44" ry="3.73" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="11.50" cy="512.11" rx="3.44" ry="3.73" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="35.81" cy="494.72" rx="2.84" ry="2.88" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="24.78" cy="496.30" rx="2.42" ry="2.25" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="13.09" cy="496.01" rx="2.06" ry="2.25" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="92.10" cy="451.01" rx="9.55" ry="10.57" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="45.12" cy="464.58" rx="11.03" ry="12.48" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="33.36" cy="445.58" rx="3.54" ry="3.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="71.37" cy="428.10" rx="11.11" ry="12.21" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="87.55" cy="435.19" rx="6.90" ry="8.00" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="136.50" cy="435.02" rx="6.40" ry="6.73" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="94.76" cy="412.99" rx="3.54" ry="3.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="108.18" cy="414.05" rx="3.81" ry="4.15" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="118.81" cy="414.14" rx="3.54" ry="3.85" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="127.47" cy="416.06" rx="4.18" ry="4.34" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="137.38" cy="416.99" rx="4.83" ry="5.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="149.19" cy="420.62" rx="4.83" ry="5.08" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="159.50" cy="422.48" rx="5.25" ry="5.38" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="175.17" cy="421.06" rx="5.99" ry="5.88" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="187.91" cy="420.45" rx="6.01" ry="6.25" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="199.74" cy="408.52" rx="6.01" ry="6.25" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="166.62" cy="411.52" rx="5.08" ry="5.32" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="116.42" cy="427.64" rx="4.37" ry="4.69" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="129.75" cy="424.36" rx="4.37" ry="4.69" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="109.49" cy="427.03" rx="3.80" ry="4.03" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="98.22" cy="424.67" rx="3.38" ry="3.62" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="90.01" cy="423.50" rx="3.38" ry="3.62" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="91.38" cy="399.82" rx="4.17" ry="4.33" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="181.50" cy="376.90" rx="3.60" ry="3.55" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="165.00" cy="386.51" rx="9.35" ry="10.54" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="81.37" cy="384.04" rx="9.35" ry="10.54" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="54.10" cy="406.31" rx="5.45" ry="5.84" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="73.97" cy="361.45" rx="4.28" ry="4.34" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="96.70" cy="356.34" rx="3.55" ry="3.44" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="52.67" cy="356.20" rx="4.53" ry="4.60" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="49.28" cy="392.85" rx="8.17" ry="9.75" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="16.22" cy="359.70" rx="11.82" ry="12.50" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="31.98" cy="355.15" rx="5.45" ry="5.84" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="3.72" cy="401.95" rx="7.03" ry="9.55" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="2.08" cy="424.54" rx="3.38" ry="3.62" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="1.30" cy="443.48" rx="3.90" ry="4.53" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="208.30" cy="437.72" rx="3.15" ry="3.22" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="240.15" cy="442.29" rx="8.30" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="226.99" cy="410.21" rx="8.30" ry="9.29" rotation="121.90" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="252.45" cy="434.55" rx="5.75" ry="5.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="263.09" cy="437.82" rx="5.75" ry="5.80" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="272.47" cy="421.91" rx="6.63" ry="6.86" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="294.66" cy="429.44" rx="7.14" ry="7.49" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="-1.67" cy="609.56" rx="10.63" ry="12.71" z_order="0">
+    </ellipse>
+    <ellipse label="bubble" source="manual" occluded="0" cx="34.34" cy="588.05" rx="3.99" ry="4.33" z_order="0">
+    </ellipse>
+  </image>
+</annotations>
