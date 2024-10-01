@@ -24,7 +24,7 @@ import tifffile
 # then each measurement in should have its own sub-directory where the images of the measurement are located.
 
 ROOT_DIR = os.getcwd() # Root directory of the script file
-MERITVE = "Example measurements Vertical" # Sub-directory of the set of mesurements you want to detect (needs to contain other sub-directories for each set of images)
+MERITVE = "Example tiff new" # Sub-directory of the set of mesurements you want to detect (needs to contain other sub-directories for each set of images)
 DATA_DIR = "./process_data"
 MEASUREMENTS_DIR = os.path.join(DATA_DIR, MERITVE) # Sets the sub-directory
 
@@ -119,9 +119,15 @@ def predict_from_dir(model, dir_path):
 
     # Read each image and append its predictions to the dictionary.
     for img in tqdm(dir_list[::step_preds]):
-        raw_img = rr.read_raw_image(os.path.join(dir_path, img))
+        file_extension = img.split(".")[1]
+        if file_extension == "raww":
+            raw_img = rr.read_raw_image(os.path.join(dir_path, img))
+        elif file_extension == "tif" or file_extension == "tiff":
+            raw_img = tifffile.imread(os.path.join(dir_path, img))
+        elif file_extension == "png" or file_extension == "jpg":
+            raw_img = cv2.imread(os.path.join(dir_path, img), cv2.IMREAD_GRAYSCALE)
+            
         img_norm = normalize(raw_img, 1, 99.8, axis=(0,1))
-
         pred, current_img_bubbles = predict_single_img(model, img_norm, img.rsplit(".")[0])
 
         predictions["bubbles"].append(current_img_bubbles)

@@ -2,6 +2,5 @@ stardist
 opencv-python
 matplotlib
 pandas
-tkinter
 Pillow
 scikit-image

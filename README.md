@@ -20,6 +20,12 @@ To process the downloaded data you can run the *[detect.py](detect.py)* script, 
 
 Read the script descriptions before running them since they include constants which need to be changed for the script to run properly (file paths and hyper-parameters).
 
+## Updates
+
+**Update 1.1**: 
+- *[detect.py](detect.py)* now works with .raww, .tiff, .tif, .png and .jpg image formats and works with variable image size (needs fixed image size only when working with .raww)
+- *[train.py](train.py)* now works with variable image sizes with when using .png files (still needs fixed image size when using .raww images)
+
 ## Files
 
 Almost all the scripts contain some paramaters which can be changed by changing the constats at the start of the file. The parameters (constants) are described in the script files. 
@@ -108,6 +114,10 @@ This script is used for detection of the test section curvature, which helps us 
 #### <span name="noise_analysis"> [noise_analysis.py](noise_analysis.py)</span>
 
 This script is used to compare the noise in two different images. It prompts you to select two different .png images, then computes the noise level of the image and displays its fourier transform.
+
+#### <span name="source_frequency"> [source_frequency.py](source_frequency.py)</span>
+
+This script is used to detect frequency of bubbles coming from a source. It prompts you to select a folder with .raww images inside and it shows the frequency of bubbles at the selected sources with a fft. Add a .txt file that has the same name as the selected folder to the set of measurements directory in the [pixel data directory](pixel_data), that contains the coordinates of the sources you want to analyze separated with a comma.
 
 ### Utils
 

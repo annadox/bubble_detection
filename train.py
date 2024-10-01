@@ -49,14 +49,14 @@ IMAGE_ROTATION = cv2.ROTATE_90_CLOCKWISE # Set depending on how you want the inp
 
 PNG_IMAGE_SIZE = (800, 1280) # Set this to the .png image dimensions (height, width)
 
-CHECK_IMAGES = False # Set to True if you want to display the dataset images and their corresponding labels before training
+CHECK_IMAGES = True # Set to True if you want to display the dataset images and their corresponding labels before training
 GENERATE_MASKS = True # Set to False if you already have generated masks
 
 # Before training the model you need to set the models config.json file that determines the hyper-parameters of the training process (or you can just copy it from the full_model_best/stardist folder)
 MODEL_BASE_DIR = "models/new_test" # Set to relative path to the models base directory from the root directory
 
 # Mask generation from .csv files
-def generate_masks():
+def generate_masks(imgs):
     if(not os.path.exists(MASKS_DIR)):
         os.mkdir(MASKS_DIR)
     else:
@@ -64,17 +64,15 @@ def generate_masks():
         for i in contents:
             os.remove(i)
 
-    for file in os.listdir(CSV_DIR):
-        if file.endswith(".csv"):
-            name = file.rsplit('.')[0]
-            df = pd.read_csv(os.path.join(CSV_DIR, file))
+    for file, img in zip(sorted(Path(CSV_DIR).glob("*csv")), imgs):
+        file = file.name
+        df = pd.read_csv(os.path.join(CSV_DIR, file))
+        mask = np.zeros_like(img)
+        for index, row in df.iterrows():
+            mask = cv2.ellipse(mask, (int(row["centerX"]), int(row["centerY"])), (int(row["minor_axis_length"]), int(row["major_axis_length"])), row["orientation"], startAngle=0, endAngle=360, color=(index + 1), thickness=-1) 
 
-            mask = np.zeros(PNG_IMAGE_SIZE)
-            for index, row in df.iterrows():
-                mask = cv2.ellipse(mask, (int(row["centerX"]), int(row["centerY"])), (int(row["minor_axis_length"]), int(row["major_axis_length"])), row["orientation"], startAngle=0, endAngle=360, color=(index + 1), thickness=-1) 
-
-            mask = mask.astype(np.uint16)
-            tifffile.imwrite(os.path.join(MASKS_DIR, file.rsplit(".")[0] + ".tif"), mask)
+        mask = mask.astype(np.uint16)
+        tifffile.imwrite(os.path.join(MASKS_DIR, file.rsplit(".")[0] + ".tif"), mask)
 
 # Train and validation dataset split
 def train_val_split(images, masks, train_size):
@@ -208,9 +206,9 @@ if __name__ == "__main__":
     images = [cv2.imread(str(pt), cv2.IMREAD_GRAYSCALE) for pt in image_paths]
     images = [normalize(img, 0, 99.8, axis=(0,1), dtype=np.uint8) for img in images]
 
-    for (img_path, img) in zip(image_paths, images):
+    """ for (img_path, img) in zip(image_paths, images):
         if img.shape != PNG_IMAGE_SIZE:
-            raise Exception(f"Image at {img_path} with shape: {img.shape} does not match the required input shape {PNG_IMAGE_SIZE}")
+            raise Exception(f"Image at {img_path} with shape: {img.shape} does not match the required input shape {PNG_IMAGE_SIZE}") """
 
     # Convert .xml and .txt to .csv
     cvat_to_csv.training_CVAT_to_csv(DATASET_DIR)
@@ -218,7 +216,7 @@ if __name__ == "__main__":
 
     # Program generates masks in .tif format for each image, if the masks sub-directory doesnt exist, it will create it. If it already contains files, it will clear the folder.
     if GENERATE_MASKS:
-        generate_masks()
+        generate_masks(images)
 
     # Read masks
     masks = sorted(Path(MASKS_DIR).glob("*tif"))
